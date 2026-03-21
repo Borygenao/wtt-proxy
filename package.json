@@ -1,0 +1,12 @@
+{
+  "name": "wtt-proxy",
+  "version": "1.0.0",
+  "description": "AI proxy for Weekly Task Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
